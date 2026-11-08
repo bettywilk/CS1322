@@ -1,6 +1,6 @@
 
 import java.util.HashMap;
-// Hash map example
+//Hash map example
 public class HashMapExample {
     public static HashMap<String, Integer> countGrades(double[] grades) {
         HashMap<String, Integer> gradeMap = new HashMap<String, Integer>();

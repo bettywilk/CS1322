@@ -4,7 +4,7 @@ class BuildStack
 {
     public static void main(String[] args)
     {
-        // Build stack program
+        //Build stack program
         Stack<String> myStack = new Stack<String>();
         myStack.push("Item 1");
         myStack.push("Item 2");
