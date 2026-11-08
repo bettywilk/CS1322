@@ -4,6 +4,7 @@ class BuildQueue
 {
     public static void main(String [] args)
     {
+        // Build queue program
         ArrayDeque<String> myQueue = new ArrayDeque<String>();
         myQueue.add("Item 1:");
         myQueue.add("Item 2:");

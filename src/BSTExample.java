@@ -3,6 +3,7 @@ public class BSTExample
 {
     public static void main(String [] args)
     {
+        //BST means binary search tree
         TreeMap<Integer,String> myTree = new TreeMap<Integer,String>();
         myTree.put(12345, "Betty Kretlow");
         myTree.put(678910,"John Doe");
